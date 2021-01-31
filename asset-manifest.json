@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/affle-assignment/static/css/main.a09c62f7.chunk.css",
+    "main.js": "/affle-assignment/static/js/main.f10753a8.chunk.js",
+    "main.js.map": "/affle-assignment/static/js/main.f10753a8.chunk.js.map",
+    "runtime-main.js": "/affle-assignment/static/js/runtime-main.5fbf0499.js",
+    "runtime-main.js.map": "/affle-assignment/static/js/runtime-main.5fbf0499.js.map",
+    "static/css/2.8cebfa1f.chunk.css": "/affle-assignment/static/css/2.8cebfa1f.chunk.css",
+    "static/js/2.8718c940.chunk.js": "/affle-assignment/static/js/2.8718c940.chunk.js",
+    "static/js/2.8718c940.chunk.js.map": "/affle-assignment/static/js/2.8718c940.chunk.js.map",
+    "index.html": "/affle-assignment/index.html",
+    "static/css/2.8cebfa1f.chunk.css.map": "/affle-assignment/static/css/2.8cebfa1f.chunk.css.map",
+    "static/css/main.a09c62f7.chunk.css.map": "/affle-assignment/static/css/main.a09c62f7.chunk.css.map",
+    "static/js/2.8718c940.chunk.js.LICENSE.txt": "/affle-assignment/static/js/2.8718c940.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5fbf0499.js",
+    "static/css/2.8cebfa1f.chunk.css",
+    "static/js/2.8718c940.chunk.js",
+    "static/css/main.a09c62f7.chunk.css",
+    "static/js/main.f10753a8.chunk.js"
+  ]
+}
