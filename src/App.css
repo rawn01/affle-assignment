@@ -1,0 +1,35 @@
+/* #C9392E -> Color */
+
+/* #A07F56  -> Font */
+
+.app {
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    margin: 0 auto;
+    justify-content: center;
+    align-items: center;
+    background-color: #333;
+    animation: moveInLeft 0.8s;
+}
+
+.app .btn {
+    width: 100px;
+    background-color: #C9392E;
+    transition: all .2s;
+}
+
+.app .btn:hover {
+    background-color: #20afda;
+    box-shadow: 1px 1px 5px #777;
+}
+
+@keyframes moveInLeft {
+    0% {
+        transform: translateX(-500px);
+    }
+
+    100% {
+        transform: translateX(0);
+    }
+}
